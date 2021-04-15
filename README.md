@@ -1,6 +1,6 @@
 # spacex_latest_launch
 
-SpaceX Latest Launch Mobil Application
+SpaceX Latest Launch Mobil Application. If doesn't work app in windows os please remove "pubspec.lock" and try again.
 
 ## Getting Started
 
