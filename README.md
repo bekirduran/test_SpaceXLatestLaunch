@@ -18,8 +18,8 @@ samples, guidance on mobile development, and a full API reference.
 
 # Screen Images 1
 
-<img src=/ScreenShots/ss1.png width="400" height="700">
+<img src=/ScreenShots/ss1.png width="400" height="800">
 
 
  # Screen Images 2
-<img src=/ScreenShots/ss2.png width="400" height="700">
+<img src=/ScreenShots/ss2.png width="400" height="800">
